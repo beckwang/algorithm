@@ -21,5 +21,6 @@ public class _1 {
 						((temp + interval) - person.size()) : (temp + interval);
 			i++;
 		}
+		System.err.println("");
 	}
 }
